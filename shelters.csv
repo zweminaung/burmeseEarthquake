@@ -1,0 +1,6 @@
+name,contact,location,capacity,type
+Emergency Shelter 1,09123456789,"Yangon, Bahan",100,Temporary
+Community Center,09234567890,"Yangon, Sanchaung",200,Permanent
+Disaster Relief Center,09345678901,"Yangon, Kyauktada",150,Temporary
+Safe Haven,09456789012,"Yangon, Dagon",80,Permanent
+Emergency Shelter 2,09567890123,"Yangon, Hlaing",120,Temporary 
